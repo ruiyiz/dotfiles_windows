@@ -1,0 +1,16 @@
+" 1.2 (created: 2008/08/16 18:51:52)
+" Mappings
+
+" Options
+set visualbell
+set defsearch=bing
+
+" Abbreviations
+
+source! ~/_vimperatorrc.local
+
+" vim: set ft=vimperator:
+
+set guioptions+=T
+
+set titlestring=Mozilla\ Firefox
